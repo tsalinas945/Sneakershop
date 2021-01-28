@@ -1,0 +1,23 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/4c/e7/a2/4ce7a2cfedb9fdf4e7d310e3b302444b.jpg');
+    
+}
+
+h1 {
+  text-align: center;
+  color: beige;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+#section1 {
+  height: 600px;
+  
+}
+
+#section2 {
+  height: 600px;
+  
+}
+
