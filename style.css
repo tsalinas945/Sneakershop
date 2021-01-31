@@ -1,11 +1,11 @@
 body {
-    background-image: url('https://i.pinimg.com/originals/4c/e7/a2/4ce7a2cfedb9fdf4e7d310e3b302444b.jpg');
+    background-image: url('https://cdn.shopify.com/s/files/1/1051/1028/t/5/assets/hero_slide_2.jpg?v=5650946612979245473');
     
 }
 
 h1 {
   text-align: center;
-  color: beige;
+  color: rgb(14, 221, 31);
 }
 html {
   scroll-behavior: smooth;
